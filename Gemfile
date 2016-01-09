@@ -5,6 +5,10 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.4'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
+
+# Use Devise for User signUp and Authentication
+gem 'devise', '3.4.1'
+
 # Use to install Twitter Bootsrap Library
 gem 'bootstrap-sass', '3.3.1'
 # Use Uglifier as compressor for JavaScript assets
